@@ -1,6 +1,6 @@
 # Redirect RuleSet
 
-# misakaf vip
+# MisakaF VIP
 DOMAIN-SUFFIX,embyvip.misakaf.org,DIRECT
 
 # IP Lookup
