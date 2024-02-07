@@ -3,8 +3,6 @@
 # > Emby
 # MisakaF VIP
 DOMAIN-SUFFIX,embyvip.misakaf.org,DIRECT
-# Reddust VIP
-DOMAIN-SUFFIX,reddust.link,DIRECT
 
 # > Misc
 # IP LookUP
