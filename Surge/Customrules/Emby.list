@@ -1,13 +1,26 @@
+# Emby
 
-
-# Orange TV
+# (Your Services)
+# > Orange TV
 DOMAIN-SUFFIX,cf.otv.icu
 
-# 叔服
+# > 叔服
 DOMAIN-SUFFIX,emby3.mcjoker.xyz
 
-# Error | Porn
+# > Error | Porn
 DOMAIN-SUFFIX,prisms.cc
 
-# 紅塵
+# > 紅塵
 DOMAIN-SUFFIX,reddust.link
+
+# > Godetia
+DOMAIN-SUFFIX,ssltd.xyz
+
+# > Singularity
+DOMAIN-SUFFIX,bagpipe.moe
+
+# > 炸鱼薯条🍟
+DOMAIN,fishchips.io
+
+# > 好鸭
+DOMAIN,niceduck.me
