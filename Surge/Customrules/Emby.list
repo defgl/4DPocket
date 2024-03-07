@@ -5,28 +5,28 @@
 
 
 # >> Orange TV
-DOMAIN-SUFFIX,cf.otv.icu
+.cf.otv.icu
 
 # >> 叔服
-DOMAIN-SUFFIX,emby3.mcjoker.xyz
+.emby3.mcjoker.xyz
 
 # >> Error | Porn
-DOMAIN-SUFFIX,prisms.cc
+.prisms.cc
 
 # >> 紅塵
-DOMAIN-SUFFIX,reddust.link
+.reddust.link
 
 # >> Godetia
-DOMAIN-SUFFIX,ssltd.xyz
+.ssltd.xyz
 
 # >> Singularity
-DOMAIN-SUFFIX,bagpipe.moe
+.bagpipe.moe
 
 # >> fishchips
-DOMAIN-SUFFIX,fishchips.io
+.fishchips.io
 
 # >> Niceduck
-DOMAIN-SUFFIX,niceduck.me
+.niceduck.me
 
 # >> Tank
-DOMAIN,1.1086.top
+1.1086.top
