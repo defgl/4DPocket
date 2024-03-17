@@ -1,32 +1,44 @@
 # Emby
 
 # (Your Services)
-# --- Emby Services ---
 
-
+# --- Streaming Providers ---
 # >> Orange TV
-.cf.otv.icu
+DOMAIN-SUFFIX,otv.icu
 
 # >> 叔服
-.emby3.mcjoker.xyz
+DOMAIN-SUFFIX,mcjoker.xyz
 
 # >> Error | Porn
-.prisms.cc
+DOMAIN-SUFFIX,prisms.cc
 
 # >> 紅塵
-.reddust.link
+DOMAIN-SUFFIX,reddust.link
 
 # >> Godetia
-.ssltd.xyz
+DOMAIN-SUFFIX,ssltd.xyz
 
 # >> Singularity
-.bagpipe.moe
+DOMAIN-SUFFIX,bagpipe.moe
 
 # >> fishchips
-.fishchips.io
+DOMAIN-SUFFIX,fishchips.io
 
 # >> Niceduck
-.niceduck.me
+DOMAIN-SUFFIX,niceduck.me
 
 # >> Tank
-1.1086.top
+DOMAIN,1.1086.top
+DOMAIN,a.tiangou.xyz
+
+# >> NMEmby
+DOMAIN-SUFFIX,ohhhh.org
+
+# >> Temby
+DOMAIN-SUFFIX,imetyou.top
+
+# >> 太空人
+DOMAIN-SUFFIX,emby.tkremby.xyz
+
+# >> 二次元
+DOMAIN-SUFFIX,nijigem.by
